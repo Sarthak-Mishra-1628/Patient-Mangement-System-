@@ -1,5 +1,8 @@
 # 🏥 Patient Management System – Cloud-Native Microservices
 
+![Patient Management System Architecture Diagram](https://github.com/user-attachments/assets/16dca4de-6f30-406b-a0c0-ece9fdbe1706)
+
+
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.4.7-green)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
